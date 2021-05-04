@@ -16,13 +16,13 @@
 
 <!--  - 📝 I regularly write articles on [Coming Soon.....](Coming Soon.....) -->
 
-- 💬 Ask me about **Boostrap, HTML, CSS, ReactJS, Android, Java, C++**
+- 💬 Ask me about **Boostrap, HTML, CSS, Javascript, Android, Java, C++, Dart**
 
 - 📫 How to reach me **chetan611611611@gmail.com**
 
-- 📄 Know about my experiences [Coming Soon...](Coming Soon...)
+<!-- - 📄 Know about my experiences [Coming Soon...](Coming Soon...) -->
 
-- ⚡ Fun fact **Coming Soon..**
+<!-- - ⚡ Fun fact **Coming Soon..** -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
