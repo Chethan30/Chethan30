@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Chethan30](https://github.com/Chethan30)
 
-- 📝 I regularly write articles on [Coming Soon.....](Coming Soon.....)
+<!--  - 📝 I regularly write articles on [Coming Soon.....](Coming Soon.....) -->
 
 - 💬 Ask me about **Boostrap, HTML, CSS, ReactJS, Android, Java, C++**
 
