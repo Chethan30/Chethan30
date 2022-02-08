@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Quiz App](https://github.com/Chethan30/Quiz-App)
 
-- 🌱 I’m currently learning **Flutter, Competitive Coding**
+- 🌱 I’m currently learning **ReactJS, Competitive Coding**
 
 - 👯 I’m looking to collaborate on **Front End**
 
