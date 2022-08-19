@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chethan B N</h1>
+<h1 align="center">👋, I'm Chethan B N</h1>
 
 <h3 align="center">A passionate front end developer from India.</h3>
 
