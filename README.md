@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/chetanbn_" target="blank"><img src="https://img.shields.io/twitter/follow/chetanbn_?logo=twitter&style=for-the-badge" alt="chetanbn_" /></a> </p>
 
-- 🔭 I’m currently working on [Quiz App](https://github.com/Chethan30/Quiz-App)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Chethan30/my-portfolio)
 
 - 🌱 I’m currently learning **ReactJS, Competitive Coding**
 
-- 👯 I’m looking to collaborate on **Front End**
+- 👯 I’m looking to collaborate on **Front End Development**
 
 - 🤝 I’m looking for help with **Competitive Coding**
 
