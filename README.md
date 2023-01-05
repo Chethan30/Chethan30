@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/chetanbn_" target="blank"><img src="https://img.shields.io/twitter/follow/chetanbn_?logo=twitter&style=for-the-badge" alt="chetanbn_" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Chethan30/my-portfolio)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/Chethan30/30-Days-of-JS)
 
 - 🌱 I’m currently learning **ReactJS, Competitive Coding**
 
 - 👯 I’m looking to collaborate on **Front End Development**
 
-- 🤝 I’m looking for help with **Competitive Coding**
+- 🤝 I’m looking for assistance with **Competitive Coding**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chethan30](https://github.com/Chethan30)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Chethan30)
 
 <!--  - 📝 I regularly write articles on [Coming Soon.....](Coming Soon.....) -->
 
@@ -60,7 +60,8 @@
 
 <a href="https://www.adobe.com/products/xd.html" target="_blank">  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chethan30&show_icons=true&theme=dark" alt="chethan30" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true" alt="Chethan's Github Stats" /></p>
+
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
