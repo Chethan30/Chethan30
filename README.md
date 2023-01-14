@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate front end developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/chetanbn_" target="blank"><img src="https://img.shields.io/twitter/follow/chetanbn_?logo=twitter&style=for-the-badge" alt="chetanbn_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/chethanbn30" target="blank"><img src="https://img.shields.io/twitter/follow/chetanbn_?logo=twitter&style=for-the-badge" alt="chetanbn_" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Chethan30/30-Days-of-JS)
 
