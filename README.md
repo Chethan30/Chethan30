@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/chethanbn30" target="blank"><img src="https://img.shields.io/twitter/follow/chetanbn_?logo=twitter&style=for-the-badge" alt="chetanbn_" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/Chethan30/30-Days-of-JS)
+- 🔭 I’m currently working on [Twitter Clone](https://github.com/Chethan30/twitter-clone)
 
 - 🌱 I’m currently learning **ReactJS, Competitive Coding**
 
