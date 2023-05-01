@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Chethan Birur Nataraja</h1>
 
-<h3 align="center">A passionate Frontend and UI Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/chethanbn30" target="_blank"><img src="https://img.shields.io/twitter/follow/chethanbn30?logo=twitter&style=for-the-badge" alt="chethanbn30" /></a> </p>
 
