@@ -18,7 +18,6 @@
 
 - 💬 Ask me about **Boostrap, HTML, CSS, Javascript, Android, Java, C++, Dart**
 
-- 📫 How to reach me **chetan611611611@gmail.com**
 
 <!-- - 📄 Know about my experiences [Coming Soon...](Coming Soon...) -->
 
